@@ -9,7 +9,7 @@ The project helps businesses understand which campaigns are most effective, opti
 
 ## **Dataset**
 
-**Source:** [Google Drive CSV file](https://drive.google.com/file/d/19QRxVxbaQL6_dMw6Pgj3GLWfjOu28aM7/view?usp=sharing)  
+**Source:** [Google Drive CSV file](marketing_campaign.csv)  
 
 **Columns:**
 
@@ -37,9 +37,9 @@ The project helps businesses understand which campaigns are most effective, opti
 
 | Task | Description | Image |
 |------|------------|-------|
-| Histogram | Plot histograms for `investment` and `revenue_generated` to understand distributions. | ![histogram_investment](Images\Investment_distribution.png) <br> ![histogram_revenue](Images\Revenue_generated_distribution.png) |
-| Scatter Plot | Plot `investment` vs `revenue_generated` to visualize relationship. | ![scatter_plot](Images\Investment_vs_Revenue_generated.png) |
-| Boxplot | Boxplot for `revenue_generated` to detect outliers. | ![boxplot_revenue](Images\Revenue_generated_Boxplot.png) |
+| Histogram | Plot histograms for `investment` and `revenue_generated` to understand distributions. | ![histogram_investment](Images/Investment_distribution.png) <br> ![histogram_revenue](Images/Revenue_generated_distribution.png) |
+| Scatter Plot | Plot `investment` vs `revenue_generated` to visualize relationship. | ![scatter_plot](Images/Investment_vs_Revenue_generated.png) |
+| Boxplot | Boxplot for `revenue_generated` to detect outliers. | ![boxplot_revenue](Images/Revenue_generated_Boxplot.png) |
 
 ---
 
